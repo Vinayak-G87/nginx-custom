@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  nginx-custom:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-09-05T11:11:09.7690739+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 226dc34f3595240c409210964e49c60e4de3bc6afb08122da6e62530a0adf406
+    name: nginx-custom
+    type: application
+    urls:
+    - nginx-custom-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-09-05T11:11:09.7678734+05:30"
